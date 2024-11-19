@@ -77,6 +77,7 @@ function Header() {
 }
 
 function Menu() {
+  console.log("test ");
   return (
     <main className="menu">
       {/* <Header /> */}

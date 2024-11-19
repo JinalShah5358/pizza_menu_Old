@@ -48,6 +48,7 @@ import "./index.css";
 // ];
 
 function App() {
+  console.log("App Component");
   return (
     <div>
       <Header />
